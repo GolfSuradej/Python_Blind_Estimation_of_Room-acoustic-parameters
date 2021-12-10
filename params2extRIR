@@ -1,0 +1,38 @@
+#  Copyright (c) 2021. Unoki & Akagi lab
+#  Author: Suradej
+"""
+params2extRIR.
+"""
+
+import numpy as np
+import tensorflow as tf
+#import librosa
+import scipy
+#import PyOctaveBand
+import keras
+from scipy.signal import butter, hilbert, filtfilt
+
+# Public methods
+__all__ = ['RIRparams', 'RoomAcoucusticParams']
+
+def params2extRIR(Th,T0,Tt,fs):    
+
+    sample_t1 = np.linspace(-int(fs*T0), 0, int(fs*T0))
+    
+    t1 = sample_t1/fs
+
+    t2 = np.linspace(0, Tt, int(Tt*Fs))
+
+    h1 = np.exp(6.9*t1/Th)
+
+    h2 = np.exp(-6.9*t2/Tt)
+
+    eL = np.append(h1,h2)
+
+    ch = np.random.randn(len(eL))
+
+    env = eL/max(eL)
+    h = env*ch
+
+    return h
+
