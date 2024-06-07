@@ -1,11 +1,11 @@
-Install Python and environment setup 
+Install Python and Environment setup 
 
 Conda
 ```
 conda create -n room-acoustics python=3.7.15
 conda activate room-acoustics
 ```
-Pyenv
+Venv
 ```
 pyenv install 3.7.15
 python -m venv
