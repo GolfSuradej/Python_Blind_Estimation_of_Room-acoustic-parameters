@@ -11,3 +11,8 @@ pyenv install 3.7.15
 python -m venv
 source venv/bin/activate
 ```
+
+
+model_noisy 
+#The model were trained under noisy reverberant environments
+checkpoints: https://gofile.me/72Wjs/YbNrD9AJw
