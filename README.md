@@ -11,6 +11,7 @@ pyenv install 3.7.15
 python -m venv
 source venv/bin/activate
 ```
+pyenv for Windows: https://pypi.org/project/pyenv-win/
 
 
 Models Noisy 
