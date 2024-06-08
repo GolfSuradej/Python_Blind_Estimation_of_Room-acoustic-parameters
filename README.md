@@ -2,7 +2,8 @@ Blind estimation of speech transmission index and room acoustic parameters based
 
 https://doi.org/10.1016/j.apacoust.2021.108372
 
-Install Python and Environment setup 
+
+Basic Setup: Install Python and Environment setup 
 
 Conda
 ```
