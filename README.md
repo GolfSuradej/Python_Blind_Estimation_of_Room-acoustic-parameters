@@ -33,7 +33,7 @@ Test Sound (convoluted with SMILE RIRs): https://gofile.me/72Wjs/hNL4HyhvG
 ACE dataset: https://gofile.me/72Wjs/KE6u8zagt
 
 
-Runing--Example
+Example1: Estimating T60 and SNR  
 
 ```
 import os
