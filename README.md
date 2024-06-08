@@ -1,3 +1,5 @@
+Blind estimation of speech transmission index and room acoustic parameters based on the extended model of room impulse response
+
 https://doi.org/10.1016/j.apacoust.2021.108372
 
 Install Python and Environment setup 
