@@ -18,3 +18,5 @@ Models Noisy
 #The model were trained under noisy reverberant environments
 
 checkpoints: https://gofile.me/72Wjs/YbNrD9AJw
+
+Room Impulse Responses (RIRs), SMILE dataset: https://gofile.me/72Wjs/J4zDC6cqu
