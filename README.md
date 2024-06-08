@@ -14,11 +14,15 @@ source venv/bin/activate
 pyenv for Windows: https://pypi.org/project/pyenv-win/
 
 
-Models Noisy 
-
-#The model were trained under noisy reverberant environments
+Models Noisy #The models were trained under noisy reverberant environments
 
 checkpoints: https://gofile.me/72Wjs/YbNrD9AJw
+
+A model for estimating speech transmission index (STI) Only
+
+https://gofile.me/72Wjs/yFVEDvDT8
+
+
 
 Datasets
 
