@@ -1,3 +1,5 @@
+https://doi.org/10.1016/j.apacoust.2021.108372
+
 Install Python and Environment setup 
 
 Conda
@@ -147,3 +149,6 @@ for k in range(7):
 
 ```
 
+Cite
+
+Duangpummet, S., Karnjana, J., Kongprawechnon, W., & Unoki, M. (2021). Blind estimation of speech transmission index and room acoustic parameters based on the extended model of room impulse response. Applied Acoustics, 185, 108372. https://doi.org/10.1016/j.apacoust.2021.108372
