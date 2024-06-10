@@ -1,9 +1,9 @@
-Blind estimation of speech transmission index and room acoustic parameters based on the extended model of room impulse response
+# Blind estimation of speech transmission index and room acoustic parameters based on the extended model of room impulse response
 
 https://doi.org/10.1016/j.apacoust.2021.108372
 
 
-Basic Setup: Install Python and Environment setup 
+### Basic Setup: Install Python and Environment setup 
 
 Conda
 ```
@@ -19,7 +19,9 @@ source venv/bin/activate
 pyenv for Windows: https://pypi.org/project/pyenv-win/
 
 
-Models Noisy #The models were trained under noisy reverberant environments
+## Models
+
+Noisy #The models were trained under noisy reverberant environments
 
 checkpoints: https://gofile.me/72Wjs/YbNrD9AJw
 
@@ -29,7 +31,7 @@ https://gofile.me/72Wjs/yFVEDvDT8
 
 
 
-Datasets
+## Datasets
 
 Room Impulse Responses (RIRs), SMILE dataset: https://gofile.me/72Wjs/J4zDC6cqu
 
@@ -37,8 +39,12 @@ Test Sound (convoluted with SMILE RIRs): https://gofile.me/72Wjs/hNL4HyhvG
 
 ACE dataset: https://gofile.me/72Wjs/KE6u8zagt
 
+Aachen Impulse Response Database:
 
-Example1: Estimating T60 and SNR  
+https://www.iks.rwth-aachen.de/fileadmin/user_upload/downloads/forschung/tools-downloads/air_database_release_1_4.zip
+
+
+### Example-1: Estimating T60 and SNR  
 
 ```
 import os
