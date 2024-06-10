@@ -16,6 +16,11 @@ conda activate room-acoustics
 Venv
 ```
 pyenv install 3.7.15
+pyenv global 3.7.15
+
+mkdir room-acoustics
+cd room-acoustics
+
 python -m venv
 source venv/bin/activate
 ```
