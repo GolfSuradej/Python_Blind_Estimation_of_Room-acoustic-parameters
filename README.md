@@ -23,7 +23,8 @@ pyenv for Windows: https://pypi.org/project/pyenv-win/
 
 ### Requirements
 
-```pip install -r requirements.txt
+```
+pip install -r requirements.txt
 ```
 
 ## Models
