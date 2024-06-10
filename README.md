@@ -2,6 +2,9 @@
 
 https://doi.org/10.1016/j.apacoust.2021.108372
 
+## PhD dissertation: 
+
+https://dspace.jaist.ac.jp/dspace/bitstream/10119/17598/2/paper.pdf
 
 ### Basic Setup: Install Python and Environment setup 
 
