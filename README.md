@@ -58,6 +58,9 @@ https://gofile.me/72Wjs/KE6u8zagt
 
 ### Test Sound (convoluted with SMILE RIRs): https://gofile.me/72Wjs/hNL4HyhvG
 
+### Clean speech dataset: VCTK
+https://datashare.ed.ac.uk/handle/10283/2651
+
 
 
 Aachen Impulse Response Database:
